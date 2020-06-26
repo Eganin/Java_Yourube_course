@@ -1,6 +1,6 @@
 package lesson26;
 
-;
+
 
 public class Str {
     public static void mainStr(String[] args) {
